@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LYF NPO Organization Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #50b3a2;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #3e8e7e 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        header #branding {
+            float: left;
+        }
+        header #branding h1 {
+            margin: 0;
+        }
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+        #showcase {
+            min-height: 400px;
+            background: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 100px 20px;
+        }
+        #showcase h1 {
+            font-size: 55px;
+            margin-top: 0;
+        }
+        .content {
+            padding: 20px;
+            background: #ffffff;
+            margin-top: 20px;
+        }
+        footer {
+            background: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Luganda Youth Development Forum (LYF NPO)</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#introduction">Introduction</a></li>
+                    <li><a href="#vision">Vision</a></li>
+                    <li><a href="#mission">Mission</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="showcase">
+        <div class="container">
+            <h1>Empowering the Youth of Luganda</h1>
+            <p>Promoting responsible citizenship, leadership, and entrepreneurship.</p>
+        </div>
+    </section>
+
+    <div class="container content">
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>The Luganda Youth Development Forum (LYF NPO) is a dedicated organisation committed to enhancing societal well-being at the local government level. Operating in collaboration with stakeholders, socially responsible businesses, and ordinary community members, we empower young people aged 18 to 35 to actively participate in community development while fostering their individual growth.</p>
+        </section>
+
+        <section id="vision">
+            <h2>Vision</h2>
+            <p>Of a vibrant community with an active and empowered youth driving the development of our society.</p>
+        </section>
+
+        <section id="mission">
+            <h2>Mission</h2>
+            <p>To drive the socio-economic growth and social development of Luganda's youth and society.</p>
+        </section>
+
+        <section id="objectives">
+            <h2>Expanded Objectives</h2>
+            <ul>
+                <li>Youth Empowerment: Empower the Luganda youth through education, skill development, and mentorship.</li>
+                <li>Social Inclusion: Create opportunities for marginalised youth to engage in community projects, fostering cohesion.</li>
+                <li>Educational Advancement: Provide quality education, scholarships, and career guidance to equip youth for growth.</li>
+                <li>Youth Advocacy: Advocate for youth rights and interests locally and globally, promoting equality.</li>
+                <li>Entrepreneurship Support: Encourage youth entrepreneurship for innovation and economic empowerment.</li>
+                <li>Civic Engagement: Promote active citizenship and involvement in community decision-making.</li>
+                <li>Gender Equality: Raise awareness about gender-based violence and rights, including persons with disabilities.</li>
+                <li>Cultural Appreciation: Celebrate Luganda's cultural diversity through exchange programs and events.</li>
+                <li>Resource Centre Establishment: Establish a hub to provide support and coordination for youth development initiatives. Information and materials resources access.</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <p>Address: 16650 Mango drive Luganda Pinetown 3609</p>
+            <p>Phone: 0671423613</p>
+            <p>Email: <a href="mailto:coodcommun@gmail.com">coodcommun@gmail.com</a></p>
+            <h3>Social Media</h3>
+            <p>Facebook: Luganda Youth Development Forum</p>
+            <p>Twitter: Luganda Youth</p>
+            <p>Instagram: Luganda Youth</p>
+            <p>LinkedIn: Luganda Youth Development Forum</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>Copyright &copy; 2024 Luganda Youth Development Forum</p>
+    </footer>
+</body>
+</html>
